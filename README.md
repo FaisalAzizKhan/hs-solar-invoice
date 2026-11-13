@@ -15,7 +15,7 @@ A password-protected, static web page for creating H & S Solar Energy solar quot
 1. Open the link above (it must be the https link).
 2. Sign in with your email and password. Tick **Remember me on this device** to skip the sign-in next time on this device.
 3. Fill in the customer details and items.
-4. Press **Generate & Download PDF**. On iPhone, use **Open PDF**, then Share -> Save to Files if the download does not start.
+4. Press **Generate & Download PDF**. Under **Invoice Actions** you can also download or print the invoice **Without header** (no logo, company name or phone - e.g. for pre-printed letterhead); the preview switch shows either version first. On iPhone, use **Open PDF**, then Share -> Save to Files if the download does not start.
 5. Use **Sign out** (top-right corner) to forget the saved sign-in on a shared device.
 
 Credentials are shared privately by the owner; they are not stored in this repository.
